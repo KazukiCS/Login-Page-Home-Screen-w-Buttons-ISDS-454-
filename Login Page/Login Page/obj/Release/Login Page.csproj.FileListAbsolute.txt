@@ -1,0 +1,24 @@
+C:\Users\kiera\source\repos\Login Page\Login Page\bin\Release\Login Page.exe.config
+C:\Users\kiera\source\repos\Login Page\Login Page\bin\Release\Login Page.exe
+C:\Users\kiera\source\repos\Login Page\Login Page\bin\Release\Login Page.pdb
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.csproj.AssemblyReference.cache
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login_Page.Home.resources
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login_Page.Login.resources
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login_Page.Properties.Resources.resources
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.csproj.GenerateResource.cache
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.exe
+C:\Users\kiera\source\repos\Login Page\Login Page\obj\Release\Login Page.pdb
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login Page.csproj.AssemblyReference.cache
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login_Page.Home.resources
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login_Page.Login.resources
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login_Page.Properties.Resources.resources
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login Page.csproj.GenerateResource.cache
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login Page.exe
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login Page.pdb
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\bin\Release\Login Page.exe.config
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\bin\Release\Login Page.exe
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\bin\Release\Login Page.pdb
+C:\Users\ivarc\Downloads\Login Page-20240427T222848Z-001\Login Page\Login Page\obj\Release\Login_Page.Next.resources
